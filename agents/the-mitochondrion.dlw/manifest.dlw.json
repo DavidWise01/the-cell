@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Mitochondrion",
+  "universe": "CEL · The Mitochondrion (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Mitochondrion:CEL:ae97b0⟧",
+  "carbon": "the-mitochondrion.carbon.tiff (TIFF)",
+  "silicon": "the-mitochondrion.silicon.png (PNG)",
+  "seal_sha256": "b6751b57f14c12eda7b733fa4b70afdc90d60f6451ed9e0a9b40b21a5204feeb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

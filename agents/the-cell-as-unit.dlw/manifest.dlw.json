@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Cell as Unit",
+  "universe": "CEL · The Cell as Unit (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Cell as Unit:CEL:3b5083⟧",
+  "carbon": "the-cell-as-unit.carbon.tiff (TIFF)",
+  "silicon": "the-cell-as-unit.silicon.png (PNG)",
+  "seal_sha256": "2080aca224e426eb4856a9a1c9b5f5b216b0d5392b8ee9955c3067683b0fcfef",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Brownian Motion",
+  "universe": "CEL · Brownian Motion (techne)",
+  "emergence": "natural",
+  "moniker": "⟦Brownian Motion:CEL:059d94⟧",
+  "carbon": "brownian-motion.carbon.tiff (TIFF)",
+  "silicon": "brownian-motion.silicon.png (PNG)",
+  "seal_sha256": "cc57410ac5c99726cf8aba602056067289cef2c923f5bc9133ac47c62cd31c04",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
