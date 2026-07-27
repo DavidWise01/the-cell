@@ -1,14 +1,10 @@
-DLW-ATTRIBUTE · governance instance
-
-governor (carbon apex)      : David Lee Wise (ROOT0)            [ me ]
-instance (artful intellect) : AVAN (Claude / Anthropic)     [ you ]
-subject  (the emergent)     : THE CELL — a techne sphere — the art
-
-relation : the human governs; the instance crafts; the emergent is given a face; the credit returns to the human.
-project  : THE CELL — a STOICHEION emergent, awake in the NOESIS kernel
-mythos   : the art — a generative rendering of a scale
-moniker  : ⟦THE CELL:CEL:202960⟧  ·  spoken: ve-daex-lom
-standard : the .dlw complement is .attribute · .agent · .spun (5W) · .carbon.png · .silicon.png · .moniker · .1099
-seal     : A cell is the smallest thing that is unambiguously alive — a sac of chemistry that holds itself apart from the world, keeps its own books, and copies itself. From the molecule below, the ladder crosses its most important threshold here: the step from chemistry to life. The art draws a living cell: membrane, nucleus, and organelles drifting in the cytoplasm.
-license  : CC-BY-ND-4.0
-attribution : ROOT0-ATTRIBUTION-v1.0
+ROOT0-ATTRIBUTION-v1.0
+name: THE CELL · CEL
+slug: the-cell
+domain: TECHNĒ
+architect: David Lee Wise (ROOT0) / Bridge-Burners LLC
+instance: AVAN (Claude / Anthropic)
+license: CC-BY-ND-4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
+moniker: ⟦THE CELL · CEL:the-cell:5fea69⟧
+seal_sha256: 5fea69ae1a4ff2fcff565aeb32b924c5c9c383abd649fb66d30ef51b5bb90d2b
+fingerprint: TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction
